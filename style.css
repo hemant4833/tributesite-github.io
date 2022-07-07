@@ -1,0 +1,58 @@
+body
+{
+margin:0;
+padding:0;
+text-align:center;
+background-color:rgb(106, 224, 245);
+background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(ABC15.jpg);
+background-size:cover;
+background-position:center;
+font-family:sans-serif;
+}
+.maindiv{
+
+	border:2px solid black;
+	margin:10%;
+	background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(ABC12.jpg);
+	background-size:cover;
+	
+	
+}
+
+
+
+.form-control
+{
+width:700px;
+background:transparent;
+border:none;
+outline:none;
+border-bottom: 1px solid gray;
+color:#fff;
+font-size:20px;
+margin-bottom:18px;
+}
+input
+{
+	height:45px;
+	
+}
+
+div p{
+	padding: 20px;
+  border-bottom: 2px solid black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
